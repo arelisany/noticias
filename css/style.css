@@ -190,16 +190,16 @@ h6, .h6 {
 
 .btn-secondary {
   background: #fff;
-  color: #ffbc3b;
+  color: #3a74aa;
   border: 1px solid #fff;
 }
 
 .btn-secondary::before {
-  background: #ffbc3b;
+  background: #3a74aa;
 }
 
 .btn-secondary:active {
-  background: #ffbc3b;
+  background: #3a74aa;
   color: #fff;
   border: 1px solid #fff;
 }
@@ -211,8 +211,8 @@ h6, .h6 {
 }
 
 .btn-primary-outline {
-  border: 1px solid #ffbc3b;
-  color: #ffbc3b;
+  border: 1px solid #3a74aa;
+  color: #3a74aa;
   background: transparent;
 }
 
@@ -221,12 +221,12 @@ h6, .h6 {
 }
 
 .btn-primary-outline:hover {
-  background: #ffbc3b;
-  color: #ffbc3b;
+  background: #3a74aa;
+  color: #3a74aa;
 }
 
 .btn-primary-outline:active {
-  background: #ffbc3b;
+  background: #3a74aa;
   color: #fff;
 }
 
